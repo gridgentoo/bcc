@@ -1,3 +1,14 @@
+### How to Debug Live Applications in Kubernetes
+### CPU Profiling
+### Static Tracepoints
+### Dynamic Tracing
+
+https://grafana.com/blog/2019/11/26/kubecon-recap-how-to-debug-live-applications-in-kubernetes/
+
+### How to Debug Live Applications in Kubernetes
+
+https://youtu.be/yNTc2-i9arg
+
 ![BCC Logo](images/logo2.png)
 # BPF Compiler Collection (BCC)
 
